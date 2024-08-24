@@ -20,22 +20,6 @@ Sou um desenvolvedor apaixonado por web development com uma afinidade por design
 
 ---
 
-💼 **Experiência Profissional**
-
-- **Ka.app Financial Services** (2024 - Atual): Frontend Developer Senior
-  - Manutenção e evolução de sistemas usando **Next.js** e **React**.
-  - Criação de web components utilizando **Storybook**.
-
-- **B-Simple (Portugal)** (2023 - 2024): Frontend Developer Senior
-  - Implementação de testes unitários com **Jest** e **Testing Library**.
-  - Melhoria de performance utilizando **React Query** e **Google Lighthouse**.
-
-- **Zup Innovation** (2022 - 2023): Frontend Developer Senior
-  - Criação de novos componentes no sistema de design com **Storybook** e **Figma**.
-  - Revisão de código e manutenção de padrões internos da empresa.
-
----
-
 📚 **Educação**
 
 - **Internet System** - Universidade do Oeste Paulista, 2018
