@@ -2,7 +2,7 @@
 
 🎯 **Web Developer | Frontend & Backend**
 
-I'm a passionate web developer with a strong affinity for design and new technologies. With robust experience in **Angular**, **React.js**, **Next.js**, and **.NET Core**
+I'm a passionate web developer with a strong affinity for design and new technologies. With robust experience in **Angular**, **React.js** and **Next.js**
 
 ---
 
