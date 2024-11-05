@@ -6,8 +6,6 @@ I'm a passionate web developer with a strong affinity for design and new technol
 
 ---
 
-📊 **GitHub Stats**
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wellbarea&theme=dracula)
 
 ---
