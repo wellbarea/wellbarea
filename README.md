@@ -1,8 +1,13 @@
 ### Hello! I'm Wellington Barea 🖐
 
-🎯 **Web Developer | Frontend & Backend**
+🎯 **Frontend Developer | Specialist in React.js, Next.js, Angular, and Frontend Architecture**
 
-I'm a passionate web developer with a strong affinity for design and new technologies. With robust experience in **Angular**, **React.js** and **Next.js**
+I am a front-end developer with solid experience in developing web and mobile applications, with a focus on performance, scalability, and usability. I have strong expertise in technologies such as React.js, Next.js, Angular, Redux, Redux-Saga, TypeScript, and JavaScript, and I am passionate about creating innovative and efficient solutions.
+
+My expertise includes building reusable components using Storybook and Web Components, also optimizing application performance with tools like React Query and GraphQL. I also have experience in unit and integration testing, using Jest, Cypress, and Testing Library to ensure code quality.
+Throughout my career, I have been actively involved in implementing micro-frontends, defining design systems, and leading teams, always aiming to promote best development practices, improve performance, and ensure consistency across projects. With experience in AWS, Datadog, Sentry, and Mixpanel, I am also equipped to integrate robust monitoring and error-tracking solutions in high-demand environments.
+
+With an approach focused on scalable and efficient solutions, I always aim to improve application performance and deliver an exceptional user experience.
 
 ---
 
@@ -20,25 +25,49 @@ I'm a passionate web developer with a strong affinity for design and new technol
 
 💼 **Professional Experience**
 
-- **Zup Innovation** (2022 - 2023): Senior Frontend Developer
-  - Created new components in the design system using **Storybook** and **Figma**.
-  - Conducted code reviews and maintained internal standards.
-  - Improved web application performance through code optimization.
-  - Collaborated with cross-functional teams to deliver high-quality software solutions.
+- **Senior Frontend Engineer - Kasta, Bulgária – Remote - 04/2024 to the moment**
+  
+  I'm Responsible for maintaining and enhancing the cryptocurrency trading financial system using Next.js and libraries, including Redux, Redux Toolkit, Thunk, and SASS. Developed web components with Storybook and Next.js, leveraging Turborepo and Atomic Design to promote reusability and consistency across the platform.
+  
+  Implemented unit tests with Jest and Testing Library to ensure code functionality and robustness in a critical financial environment.
+  
+  Optimized application performance and data requests related to transactions and analytics using GraphQL, while also utilizing React Query for other internal applications.
+  
+  Employed Google Lighthouse and React Profiler to monitor performance, identify potential bottlenecks, and enhance user experience in a high-demand environment.
+  
+  Using AWS services for executing Lambda functions, enabling scalable and efficient cloud-based processing.
+  
+  Integrated Datadog, Firebase and Sentry for real-time error tracking and monitoring, improving debugging and system reliability. Led the integration and monitoring of Mixpanel across our tools and products, streamlining data analysis and user behavior tracking. Conducted code reviews and performed through testing to ensure high-quality standards and maintain system stability.
 
-- **PicPay** (2021 - 2022): Senior Frontend Developer
-  - Developed and maintained user interfaces with **React** and **Next.js**.
-  - Implemented unit tests using **Jest** and **Testing Library**.
-  - Participated in the development of a digital wallet platform.
-  - Worked closely with backend developers to integrate APIs.
-  - Enhanced user experience by optimizing frontend performance.
 
-- **Ambev Tech** (2020 - 2021): Frontend Developer
-  - Participated in building a digital platform for internal management.
-  - Collaborated with agile teams to deliver features using **Angular** and **.NET Core**.
-  - Developed responsive web applications with a focus on user experience.
-  - Worked on continuous integration and deployment pipelines.
-  - Provided technical support and mentoring to junior developers.
+- **Senior Frontend Engineer - Zup Innovation, São Paulo, BR – Remote - 01/2022 to 04/2024**
+  Developed new frontend features for financial market web and mobile applications using React.js, React Native, Redux, Context API, Jest, Testing Library, and Styled Components.
+  
+  Contributed to the development of a chatbot training system for Itaú Bank, focusing on AI training and optimization. The system handled AI learning and necessary corrections using Angular 12+, RXJS, and Jest for unit testing.
+  
+  Collaborated with the design system team, creating essential components for the chatbot training module. Led the design and evolution of the architecture using a micro-frontend approach, sharing knowledge and supporting the team in improving performance and code quality.
+  
+  I participated in a squad responsible for migrating a legacy system to a modern architecture for Bank Itau's desktop system, using Angular and micro-frontends. He was a pioneer in implementing and configuring the testing environment with Jest and Testing Library.
+  
+  I participated in an asset trading project, working on the development of the web version with Next.js and the mobile version with React Native. I was responsible for configuring Jest and Testing Library for unit testing, also using React Query to optimize performance and led the creation of the core project following Clean Architecture principles, ensuring that all business rules were developed only once and shared across devices.
+
+
+- **Senior Frontend Engineer - PicPay, São Paulo, BR – Remote - 12/2020 to 01/2022**
+  I was responsible for implementing new features using Angular 8+, React.js, Redux, TypeScript, and JavaScript, with a focus on performance and usability.
+  
+  Developed web components with Stencil.js and Storybook, promoting consistency and modularity in the frontend.
+  
+  Implemented unit tests with Jest and end-to-end tests with Cypress and Cucumber.
+  
+  Used Nx Monorepo to organize multiple projects, ensuring scalability and efficient code maintenance.
+  
+  Created internal courses, including content on JavaScript, TypeScript, and best practices with ESLint and Prettier, while also sharing technical knowledge on frontend architecture.
+  
+  Worked within the platform team, defining architecture and standards for squads to replicate, ensuring uniformity across projects, and contributing to overall application performance improvements. Served as a technical reference for the frontend team, providing guidance and direction.
+  
+  Led the development of a new frontend project for a financial business application for a digital bank, utilizing Angular, SASS and RXJS to create scalable, high-performance solutions. 
+  
+  Used Storybook for web component creation and Jest for unit testing. I was responsible for validating the layout across mobile and desktop versions to ensure consistency.
 
 ---
 
@@ -50,6 +79,12 @@ I'm a passionate web developer with a strong affinity for design and new technol
 
 ---
 
+**LANGUAGES**
+- Portuguese: Fluent or native. 
+- English: Intermediate level.
+
+---
+
 📫 **Contact Me**
 
-- [LinkedIn](https://www.linkedin.com/in/wellington-b-043331226/)
+- [LinkedIn](https://www.linkedin.com/in/wellington-bar%C3%AAa-043331226/)
