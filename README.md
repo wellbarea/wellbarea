@@ -1,17 +1,17 @@
 ### 👋 Hello! I'm Wellington Barea
 
-🎯 **Senior Frontend Developer | Specialist in React.js, Next.js, Angular & Frontend Architecture**
+🎯 **Senior Frontend Engineer | React.js, Next.js, Angular | Frontend Architecture & Performance Specialist**
 
 I'm a passionate Frontend Developer with solid experience in building scalable and high-performance web and mobile applications. My focus is always on delivering clean code, excellent usability, and optimized user experiences.
 
 💡 **Key Expertise:**
-- React.js, Next.js, Angular, Redux, Redux-Saga
-- TypeScript, JavaScript, HTML5, CSS3/SASS
-- Storybook, Web Components, Design Systems, Micro-frontends
-- GraphQL, React Query, REST APIs
-- Testing: Jest, Cypress, Testing Library
-- Cloud & Monitoring: AWS (Lambda), Datadog, Sentry, Firebase, Mixpanel
-- Performance optimization using Lighthouse and React Profiler
+- ⚛️ React.js, Next.js, Angular, Redux, Redux-Saga
+- 🛠️ TypeScript, JavaScript, HTML5, CSS3/SASS
+- 🎨 Storybook, Web Components, Design Systems, Micro-frontends
+- 🔗 GraphQL, React Query, REST APIs
+- 🧪 Testing: Jest, Cypress, Testing Library
+- ☁️ Cloud & Monitoring: AWS (Lambda), Datadog, Sentry, Firebase, Mixpanel
+- 🚀 Performance optimization: Lighthouse, React Profiler
 
 With hands-on experience in leading frontend projects, defining architecture, mentoring teams, and implementing scalable solutions, I aim to build products that are maintainable and future-proof.
 
@@ -94,5 +94,6 @@ With hands-on experience in leading frontend projects, defining architecture, me
 ---
 
 ### 📫 Contact
-
 - [LinkedIn](https://www.linkedin.com/in/wellington-bar%C3%AAa-043331226/)
+- [GitHub](https://github.com/wellbarea)
+- Email: wellbarea@gmail.com
