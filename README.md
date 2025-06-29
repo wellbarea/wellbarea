@@ -97,4 +97,4 @@ With hands-on experience in leading frontend projects, defining architecture, me
 - [LinkedIn](https://www.linkedin.com/in/wellington-bar%C3%AAa-043331226/)
 - [GitHub](https://github.com/wellbarea)
 - Email: wellbarea@gmail.com
-- [Medium]([https://github.com/wellbarea](https://medium.com/@wellingtongabriel90))
+- [Medium](https://medium.com/@wellingtongabriel90)
