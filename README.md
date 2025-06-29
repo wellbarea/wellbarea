@@ -31,20 +31,6 @@ With hands-on experience in leading frontend projects, defining architecture, me
 
 ### 💼 Experience Highlights
 
-**🔹 Senior Frontend Engineer – Kasta (Remote – Bulgaria, 2024–Present)**
-
-  I'm Responsible for maintaining and enhancing the cryptocurrency trading financial system using Next.js and libraries, including Redux, Redux Toolkit, Thunk, and SASS. Developed web components with Storybook and Next.js, leveraging Turborepo and Atomic Design to promote reusability and consistency across the platform.
-  
-  Implemented unit tests with Jest and Testing Library to ensure code functionality and robustness in a critical financial environment.
-  
-  Optimized application performance and data requests related to transactions and analytics using GraphQL, while also utilizing React Query for other internal applications.
-  
-  Employed Google Lighthouse and React Profiler to monitor performance, identify potential bottlenecks, and enhance user experience in a high-demand environment.
-  
-  Using AWS services for executing Lambda functions, enabling scalable and efficient cloud-based processing.
-  
-  Integrated Datadog, Firebase and Sentry for real-time error tracking and monitoring, improving debugging and system reliability. Led the integration and monitoring of Mixpanel across our tools and products, streamlining data analysis and user behavior tracking. Conducted code reviews and performed through testing to ensure high-quality standards and maintain system stability.
-
 **🔹 Senior Frontend Engineer – Zup Innovation (Remote – Brazil, 2022–2024)**
 
   Developed new frontend features for financial market web and mobile applications using React.js, React Native, Redux, Context API, Jest, Testing Library, and Styled Components.
