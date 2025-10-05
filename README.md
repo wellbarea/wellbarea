@@ -2,30 +2,34 @@
 
 🎯 **Senior Frontend Engineer | React.js, Next.js, Angular | Frontend Architecture & Performance Specialist**
 
-I'm a passionate Frontend Developer with solid experience in building scalable and high-performance web and mobile applications. My focus is always on delivering clean code, excellent usability, and optimized user experiences.
+Passionate Senior Frontend Engineer with solid experience building scalable web and mobile applications. I specialize in React.js, Next.js, Angular, and modern frontend architectures, with a strong focus on performance, scalability, and user experience.
 
-💡 **Key Expertise:**
-- ⚛️ React.js, Next.js, Angular, Redux, Redux-Saga
-- 🛠️ TypeScript, JavaScript, HTML5, CSS3/SASS
-- 🎨 Storybook, Web Components, Design Systems, Micro-frontends
-- 🔗 GraphQL, React Query, REST APIs
-- 🧪 Testing: Jest, Cypress, Testing Library
-- ☁️ Cloud & Monitoring: AWS (Lambda), Datadog, Sentry, Firebase, Mixpanel
-- 🚀 Performance optimization: Lighthouse, React Profiler
+Skilled in designing reusable components (Storybook, Web Components) and optimizing app performance with tools like React Query and GraphQL. I have hands-on experience with unit and integration testing using Jest, Cypress, and Testing Library to ensure code quality.
 
-With hands-on experience in leading frontend projects, defining architecture, mentoring teams, and implementing scalable solutions, I aim to build products that are maintainable and future-proof.
+I’ve been deeply involved in implementing micro-frontends, defining and maintaining design systems, and collaborating closely with cross-functional teams. I also integrate robust monitoring and error tracking solutions using AWS, Datadog, Sentry, and Mixpanel in high-demand environments.
+
+I’m passionate about delivering scalable, efficient, and maintainable solutions that drive excellent user experiences.
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wellbarea&theme=dracula)
+### 🧰 Toolbox
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
 
 ---
 
-### 🛠 Tech Stack
+### 📊 GitHub Stats
 
-- **Frontend:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- **Backend:** ![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-- **Testing & Tools:** ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Wellington's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wellbarea&show_icons=true&theme=dracula&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbarea&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
@@ -42,7 +46,6 @@ With hands-on experience in leading frontend projects, defining architecture, me
   I participated in a squad responsible for migrating a legacy system to a modern architecture for Bank Itau's desktop system, using Angular and micro-frontends. He was a pioneer in implementing and configuring the testing environment with Jest and Testing Library.
   
   I participated in an asset trading project, working on the development of the web version with Next.js and the mobile version with React Native. I was responsible for configuring Jest and Testing Library for unit testing, also using React Query to optimize performance and led the creation of the core project following Clean Architecture principles, ensuring that all business rules were developed only once and shared across devices.
-
 
 **🔹 Senior Frontend Engineer – PicPay (Remote – Brazil, 2020–2022)**
 
@@ -65,7 +68,6 @@ With hands-on experience in leading frontend projects, defining architecture, me
 ---
 
 ### 🎓 Education
-
 - **Bachelor in Internet Systems** – Universidade do Oeste Paulista, 2018  
 - **Software Architecture** – IGTI, 2022  
 - **Advanced Angular Development** – Desenvolvedor.io, 2020  
@@ -73,14 +75,13 @@ With hands-on experience in leading frontend projects, defining architecture, me
 ---
 
 ### 🌐 Languages
-
-- 🇧🇷 Portuguese: Native  
-- 🇬🇧 English: Intermediate  
+🇧🇷 Portuguese — Native  
+🇬🇧 English — Intermediate  
 
 ---
 
-### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/wellington-bar%C3%AAa-043331226/)
-- [GitHub](https://github.com/wellbarea)
-- Email: wellingtongabriel90@gmail.com
-- [Medium](https://medium.com/@wellingtongabriel90)
+### 📫 Connect with Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Wellington%20Barea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-bar%C3%AAa-043331226/)](https://www.linkedin.com/in/wellington-bar%C3%AAa-043331226/)
+[![Medium Badge](https://img.shields.io/badge/-@wellingtongabriel90-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@wellingtongabriel90)](https://medium.com/@wellingtongabriel90)
+[![Gmail Badge](https://img.shields.io/badge/-wellingtongabriel90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:wellingtongabriel90@gmail.com)
