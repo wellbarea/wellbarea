@@ -103,7 +103,7 @@ A lightweight event-tracking library designed to improve the reliability of anal
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-bar%C3%AAa-043331226/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonbarea)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wellbarea)
 [![Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@wellingtongabriel90)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wellingtongabriel90@gmail.com)
