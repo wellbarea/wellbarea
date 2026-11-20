@@ -105,6 +105,7 @@ Clean Architecture, Modular Architecture, Microservices, Monorepos, Turborepo, N
 ## Professional Experience
 
 ### Kasta — Senior Full Stack Engineer
+
 <sub>April 2024 – Present | International · Bulgaria · Remote</sub>
 
 Working on fintech products involving cryptocurrency payments, trading analytics, and financial platforms.
@@ -129,6 +130,7 @@ Working on fintech products involving cryptocurrency payments, trading analytics
 - Maintained a minimum test coverage target of 96%.
 
 ### Zup Innovation / Itaú — Senior Frontend Engineer
+
 <sub>January 2022 – April 2024</sub>
 
 - Developed enterprise applications using Angular and microfrontend architecture.
@@ -138,6 +140,7 @@ Working on fintech products involving cryptocurrency payments, trading analytics
 - Improved testing strategies and application observability.
 
 ### PicPay — Frontend Engineer
+
 <sub>December 2020 – January 2022</sub>
 
 - Developed frontend applications using Angular and RxJS.
@@ -145,29 +148,6 @@ Working on fintech products involving cryptocurrency payments, trading analytics
 - Worked with Storybook and Nx monorepos.
 - Implemented automated tests using Jest, Cypress, and Cucumber.
 - Supported frontend technical leadership and team development.
-
-### Ambev Tech — Software Engineer
-<sub>January 2019 – December 2020</sub>
-
-- Developed applications using React, Redux, Redux-Saga, Angular, and NgRx.
-- Worked with .NET Core microservices and Azure.
-- Integrated systems using RabbitMQ and SQL Server.
-- Built component libraries using Storybook.
-- Worked with Gatsby, Strapi, MongoDB, and observability tools.
-
-### UNOESTE — Graduate Lecturer
-<sub>January 2020 – December 2020</sub>
-
-- Taught modern frontend development.
-- Shared practical knowledge of React, Angular, and Vue.js.
-- Helped students understand software development concepts and application architecture.
-
-### Manager Fashion — Software Developer
-<sub>January 2017 – January 2019</sub>
-
-- Developed web applications using PHP, Laravel, MySQL, React, Vue.js, and .NET.
-- Worked across frontend and backend development.
-- Contributed to application maintenance and new feature development.
 
 ---
 
